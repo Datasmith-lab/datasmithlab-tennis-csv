@@ -1,0 +1,6 @@
+.env
+.env.*
+__pycache__/
+*.log
+matches*.csv
+dataset*.json

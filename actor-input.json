@@ -1,0 +1,10 @@
+{
+  "daysBack": 1,
+  "daysAhead": 0,
+  "statuses": ["finished"],
+  "includeStatistics": false,
+  "includePointByPoint": false,
+  "includeH2H": false,
+  "onlyNewResults": false,
+  "maxItems": 20
+}
